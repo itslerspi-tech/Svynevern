@@ -1,0 +1,25 @@
+
+.orbitron-light {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    font-family: "Orbitron";
+    font-size: larger;
+    height: 100%;
+    background-image: conic-gradient(rgb(255, 255, 255), rgb(131, 130, 130));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    top: 50%;
+    margin-top: 450px;
+    color: #000000;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}
