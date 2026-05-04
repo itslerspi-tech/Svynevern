@@ -1,0 +1,26 @@
+body {
+    padding-top: 1px;
+    display: inline;
+    margin: 0;
+    background-image: url(pexels-jinno-32353133.jpg);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.219);
+    margin: 2px;
+    padding: 0;
+    height: 50px;
+}
+
+h1, ul{
+    margin: 1px;
+}
+
+div
+{
+    text-align: center;
+    top: 50%;
+    margin-top: 450px;
+}

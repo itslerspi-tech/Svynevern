@@ -10,16 +10,42 @@ body{
     font-family: "Orbitron";
     font-size: larger;
     height: 100%;
-    background-image: conic-gradient(rgb(255, 255, 255), rgb(131, 130, 130));
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url(noisy-texture-200x200-o100-d28-c-3d0416-t1.png);
+    background-image: url(noisy-texture-200x200-o33-d14-c-3d0416-t1.png);
+    background-color: rgb(85, 26, 26);
+    background-image: url(pexels-jinno-32353133.jpg);
     background-attachment: fixed;
+    background-position: center;
 }
 
 h1{
+
+    color: #000000;
+    text-shadow: 1px 3px 0 #441717, 1px 13px 5px #253e55;
+}
+
+div
+{
     text-align: center;
     top: 50%;
     margin-top: 450px;
-    color: #000000;
+}
+
+
+a{
+    text-decoration-line: none;
+    font-size: 50px;
     text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}
+
+a:hover
+{
+    color: white;
+    cursor: pointer;
+}
+
+a:visited
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
